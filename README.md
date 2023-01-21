@@ -23,4 +23,7 @@ features:
 This work is based and inspired by book [Flask Web Development, 2nd Edition](https://www.oreilly.com/library/view/flask-web-development/9781491991725/).
 1st edition of this book is available for free : [Flask Web Development, 1st Edition](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf).
 
+other book 
+[Mastering flask web development 2nd](https://edu.anarcho-copy.org/Programming%20Languages/Python/mastering-flask-web-development-2nd.pdf)
+
 # WORK IN PROGRESS 
